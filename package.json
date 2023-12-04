@@ -1,7 +1,7 @@
 {
   "name": "developerportfolio",
   "version": "2.0.0",
-  "private": "true",
+  "private": "false",
   "description": "My personal portfolio website",
   "source": "src/index.html",
   "scripts": {
